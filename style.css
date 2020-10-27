@@ -25,15 +25,22 @@
 #h1 {
     font-family: Geneva, Arial, Helvetica, sans-serif;
    } 
-   
-#logotip {
-    width: 270px;
-    height: 270px;
-    position: absolute;
-}
 
 #Win {
 	width: 800px;
     height: 500px;
     position: absolute;
 }
+#Lin {
+	margin-top: 500px;
+	width: 800px;
+    height: 500px;
+    position: absolute;
+}
+#Lin1 {
+	margin-top: 1000px;
+	width: 800px;
+    height: 500px;
+    position: absolute;
+}
+
